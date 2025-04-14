@@ -1,1 +1,2 @@
 # gittestmarinka
+текст текст текст
